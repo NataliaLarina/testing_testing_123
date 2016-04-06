@@ -1,0 +1,24 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Learning Mocha and Chai",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataliaLarina/testing_testing_123.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "testing"
+  ],
+  "author": "Natalia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NataliaLarina/testing_testing_123/issues"
+  },
+  "homepage": "https://github.com/NataliaLarina/testing_testing_123#readme"
+}
