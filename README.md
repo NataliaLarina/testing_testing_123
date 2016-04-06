@@ -1,2 +1,8 @@
-# testing_testing_123
-intro to testing with Mocha &amp; Chai
+# Intro to Testing with Mocha & Chai
+
+Intro to testing with Mocha &amp; Chai
+
+## How do I test
+
+* Run the 'mocha' or 'npm test' command to run your tests
+* 
