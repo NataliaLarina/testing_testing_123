@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/NataliaLarina/testing_testing_123/issues"
   },
-  "homepage": "https://github.com/NataliaLarina/testing_testing_123#readme"
+  "homepage": "https://github.com/NataliaLarina/testing_testing_123#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
 }
